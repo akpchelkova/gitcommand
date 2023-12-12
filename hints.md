@@ -44,3 +44,5 @@ https://www.youtube.com
 ## Картинки
 
 [koshka](https://w.forfun.com/fetch/a9/a9cd07f219cf102dcda5ccff4acde0b5.jpeg/ "милая мордашка")
+
+![puska](koshka.jpg)
