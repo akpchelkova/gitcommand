@@ -42,3 +42,9 @@ git pull <url>
 ```sh
 git clone <url>
 ```
+
+## 8. Отправка изменений в удалённый репозиторий
+
+```sh
+git push <remote-name> <branch-name>
+```
