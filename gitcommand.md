@@ -36,3 +36,9 @@ git remote add <origin(как правило)> <url(с github)>
 ```sh
 git pull <url>
 ```
+
+## 7. Копирование чужого реппозитория
+
+```sh
+git clone <url>
+```
